@@ -1,0 +1,6 @@
+{
+    "require": {
+        "php-xpdf/php-xpdf": "~0.2.0",
+        "monolog/monolog": "~2.0.0"
+    }
+}
