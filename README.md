@@ -1,3 +1,3 @@
 # pdftotext
 
-Download pdftotext binaries here: www.xpdfreader.com
+Download xpdf binaries here: www.xpdfreader.com
